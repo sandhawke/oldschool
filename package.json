@@ -1,0 +1,17 @@
+{
+  "name": "oldschool",
+  "version": "0.0.1",
+  "description": "A command-line crosscloud chat program",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sandro Hawke <sandro@hawke.org>",
+  "license": "MIT",
+  "dependencies": {
+    "columnify": "^1.3.2",
+    "commander": "^2.6.0",
+    "crosscloud": "^0.1.4-1",
+    "userinfo": "^1.1.0"
+  }
+}
