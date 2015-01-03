@@ -1,0 +1,12 @@
+
+   oldschool -- a crosscloud chat program that runs in a terminal
+
+   see /HELP for available commands
+
+   The basic idea is that everything you type gets posted to your site
+   (think microblog).  Meanwhile, anything posted by any of your contacts
+   gets displayed, if it passes your current filters.
+
+   It's called "oldschool" because I was into systems like this a long
+   time ago, back in school (rpi.edu).  Of course, they used different
+   protocols, with somewhat different properties.

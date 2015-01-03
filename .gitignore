@@ -1,0 +1,7 @@
+.versioned/
+*~
+OLD/*
+node_modules/
+doctest/*
+
+
